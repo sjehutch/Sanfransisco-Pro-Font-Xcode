@@ -12,4 +12,6 @@
 
 #### You should now see the items in your drop down for fonts 
 
+![Screenshot](https://github.com/sjehutch/Sanfransisco-Pro-Font-Xcode/blob/master/Screen%20Shot%202017-12-26%20at%209.45.15%20AM.png?raw=true)
+
 
